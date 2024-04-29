@@ -1,7 +1,7 @@
-package com.hotelrezervations.steps;
+package com.hotelreservations.steps;
 
-import com.hotelrezervations.models.BookingResponse;
-import com.hotelrezervations.services.ReservationService;
+import com.hotelreservations.models.BookingResponse;
+import com.hotelreservations.services.ReservationService;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

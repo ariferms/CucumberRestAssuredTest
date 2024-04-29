@@ -1,6 +1,6 @@
-package com.hotelrezervations.services;
+package com.hotelreservations.services;
 
-import com.hotelrezervations.models.Auth;
+import com.hotelreservations.models.Auth;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 

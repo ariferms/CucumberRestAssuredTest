@@ -1,6 +1,6 @@
-package com.hotelrezervations.services;
+package com.hotelreservations.services;
 
-import com.hotelrezervations.models.BookingResponse;
+import com.hotelreservations.models.BookingResponse;
 
 public class BookingIdService extends BaseTest{
 

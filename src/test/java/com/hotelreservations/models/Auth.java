@@ -1,4 +1,4 @@
-package com.hotelrezervations.models;
+package com.hotelreservations.models;
 
 public class Auth {
     private String username;

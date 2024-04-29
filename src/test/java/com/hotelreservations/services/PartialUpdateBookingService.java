@@ -1,6 +1,6 @@
-package com.hotelrezervations.services;
+package com.hotelreservations.services;
 
-import com.hotelrezervations.models.BookingUpdateResponse;
+import com.hotelreservations.models.BookingUpdateResponse;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.json.JSONObject;

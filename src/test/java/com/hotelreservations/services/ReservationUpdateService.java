@@ -1,9 +1,8 @@
-package com.hotelrezervations.services;
+package com.hotelreservations.services;
 
-import com.hotelrezervations.models.Auth;
-import com.hotelrezervations.models.Booking;
-import com.hotelrezervations.models.BookingDates;
-import com.hotelrezervations.models.BookingUpdateResponse;
+import com.hotelreservations.models.Booking;
+import com.hotelreservations.models.BookingDates;
+import com.hotelreservations.models.BookingUpdateResponse;
 import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 

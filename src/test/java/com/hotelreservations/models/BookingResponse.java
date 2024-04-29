@@ -1,4 +1,4 @@
-package com.hotelrezervations.models;
+package com.hotelreservations.models;
 
 public class BookingResponse {
     private int bookingid;

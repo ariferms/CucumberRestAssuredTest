@@ -1,7 +1,7 @@
-package com.hotelrezervations.steps;
+package com.hotelreservations.steps;
 
-import com.hotelrezervations.models.BookingUpdateResponse;
-import com.hotelrezervations.services.PartialUpdateBookingService;
+import com.hotelreservations.models.BookingUpdateResponse;
+import com.hotelreservations.services.PartialUpdateBookingService;
 import io.cucumber.java.en.Given;
 import org.junit.jupiter.api.Assertions;
 
