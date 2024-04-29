@@ -12,7 +12,6 @@ public class ReservationSteps {
     ReservationService reservationService;
     String authKey;
     BookingResponse bookingResponse;
-
     @Given("Kullanici yeni bir rezervasyon olusturuyor")
     public void callStart() {
         reservationService = new ReservationService();
